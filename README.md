@@ -1,3 +1,7 @@
+# Expense tracker app created using React and Redux
+<img src="/asset/image.png" height="700px" width="400px"/>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
